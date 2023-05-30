@@ -6,11 +6,9 @@
 
 ## About me
 
-I'm a software engineer who loves what she does. 
-
-<br> 
-
 ``` js
+// I'm a software engineer who loves what she does. 
+
 const thingsILike = {
   traveling: '🌎',
   greatOutdoors() {
