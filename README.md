@@ -1,6 +1,4 @@
-# Hello hello! 👋
-👩‍💻 My name is Kasey and I like to `code`
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&background=000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+hello!+%F0%9F%91%8B;My+name+is+Kasey+and+I+like+to+code+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 <br> 
