@@ -1,22 +1,40 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&background=000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+hello!+%F0%9F%91%8B;My+name+is+Kasey+and+I+like+to+code+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
+<br> 
+
+---
+
+## About me
+
+I'm a software engineer who loves what she does. 
 
 <br> 
 
-I also like...
 ``` js
-🌎 traveling 
-🏔 backpacking
-🏕 camping
-🥾 hiking
-🎿 skiing
-🧗‍♀‍ rock climbing
-🧩 puzzles and board games
+const thingsILike = {
+  traveling: '🌎',
+  greatOutdoors() {
+    if (!coding) {
+      const activities = [
+        { backpacking: '🏔' },
+        { camping: '🏕' },
+        { hiking: '🥾' },
+        { skiing: '🎿' },
+        { rockClimbing: '🧗‍♀' }
+      ];
+      return activities
+    };
+  },
+  puzzles: '🧩',
+  cardGames: '🃏',
+};
 ```
 
 <br>
 
-# Tech Stack
+---
+
+## Tech Stack
 ![JavaScript][JS]
 ![TypeScript][TS]
 ![React][React]
