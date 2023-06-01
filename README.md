@@ -1,30 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=200&background=000000&vCenter=true&multiline=true&width=800&height=150&lines=Hello+hello!+%F0%9F%91%8B;My+name+is+Kasey+and+I+like+to+code+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=200&background=000000&vCenter=true&multiline=true&width=800&height=150&lines=Hello+hello!+%F0%9F%91%8B;My+name+is+Kasey+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br> 
 
 ---
 
-## About me
+# 🙂 About me
 
 ``` js
 // I'm a software engineer who loves what she does. 
 
-const thingsILike = {
-  traveling: '🌎',
-  greatOutdoors() {
-    if (!coding) {
-      const activities = [
-        { backpacking: '🏔' },
-        { camping: '🏕' },
-        { hiking: '🥾' },
-        { skiing: '🎿' },
-        { rockClimbing: '🧗‍♀' }
-      ];
-      return activities
-    };
-  },
-  puzzles: '🧩',
-  cardGames: '🃏',
+
+whatImUpTo = () => {
+  if (!coding) {
+    const activities = [
+      'backpacking 🏔',
+      'camping 🏕',
+      'hiking 🥾',
+      'skiing 🎿',
+      'rockClimbing 🧗'
+    ];
+  
+    return activities[Math.floor(Math.random() * activities.length)];
+  
+  }else return 'contributing to open source'
+
 };
 ```
 
@@ -32,7 +31,17 @@ const thingsILike = {
 
 ---
 
-## Tech Stack
+## 🚀 Let's connect
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaseywolff/)
+
+<br>
+
+---
+
+## 🤖 Tech Stack
 
 <br>
 
