@@ -22,8 +22,7 @@ whatImUpTo = () => {
   
     return activities[Math.floor(Math.random() * activities.length)];
   
-  }else return 'contributing to open source'
-
+  }else return 'coding'
 };
 ```
 
